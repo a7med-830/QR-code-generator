@@ -23,23 +23,5 @@ The **QR Code Generator** is a lightweight and efficient tool designed to create
 2. **Usage**:
    - Launch the application.
    - Input your desired data.
-   - Customize options (if required) and generate the QR code.
+   - Customize options and generate the QR code.
 
----
-
-## Changelog
-
-### v2.0
-- Added support for advanced error correction levels.
-- Improved QR code rendering performance.
-- Enhanced UI for better user experience.
-- Bug fixes and optimizations.
-
-### v1.5
-- Introduced customizable QR code size options.
-- Improved handling of non-ASCII text input.
-- General performance improvements.
-
-### v1.0
-- Initial release.
-- Basic QR code generation for text and URLs.
